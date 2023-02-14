@@ -1,8 +1,8 @@
-# Responsive Coffee Website
+# Responsive Multi Step Form
 ## [Watch it on youtube](https://youtu.be/JFQAUjpyUpk)
-### Responsive Coffee Website
+### Responsive Multi Step Form
 
-- Responsive Coffee Website Design Using HTML CSS & JavaScript
+- Responsive Multi Step Form Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
